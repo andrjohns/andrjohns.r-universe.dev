@@ -6,5 +6,9 @@
     {
         "package": "StanEstimators",
         "url": "https://github.com/andrjohns/StanEstimators"
+    },
+    {
+        "package": "cmdstanr",
+        "url": "https://github.com/andrjohns/cmdstanr"
     }
 ]
