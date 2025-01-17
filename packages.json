@@ -6,17 +6,5 @@
     {
         "package": "StanEstimators",
         "url": "https://github.com/andrjohns/StanEstimators"
-    },
-    {
-        "package": "StanHeaders",
-        "url": "https://github.com/stan-dev/rstan",
-        "branch": "runiverse-scripts",
-        "subdir": "StanHeaders"
-    },
-    {
-        "package": "rstan",
-        "url": "https://github.com/stan-dev/rstan",
-        "branch": "runiverse-scripts",
-        "subdir": "rstan/rstan"
     }
 ]
