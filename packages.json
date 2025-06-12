@@ -5,11 +5,6 @@
     },
     {
         "package": "StanEstimators",
-        "url": "https://github.com/andrjohns/StanEstimators",
-        "branch": "wasm"
-    },
-    {
-        "package": "RcppParallel",
-        "url": "https://github.com/andrjohns/RcppParallel"
+        "url": "https://github.com/andrjohns/StanEstimators"
     }
 ]
