@@ -6,5 +6,9 @@
     {
         "package": "StanEstimators",
         "url": "https://github.com/andrjohns/StanEstimators"
+    },
+    {
+        "package": "boostmath",
+        "url": "https://github.com/andrjohns/boostmath"
     }
 ]
