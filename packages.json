@@ -10,9 +10,5 @@
     {
         "package": "boostmath",
         "url": "https://github.com/andrjohns/boostmath"
-    },
-    {
-        "package": "controlcharts",
-        "url": "https://github.com/andrjohns/controlcharts"
     }
 ]
