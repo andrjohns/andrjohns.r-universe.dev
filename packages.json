@@ -10,5 +10,9 @@
     {
         "package": "boostmath",
         "url": "https://github.com/andrjohns/boostmath"
+    },
+    {
+        "package": "jsutils",
+        "url": "https://github.com/andrjohns/jsutils"
     }
 ]
