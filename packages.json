@@ -14,5 +14,17 @@
     {
         "package": "jsutils",
         "url": "https://github.com/andrjohns/jsutils"
-    }
+    },
+  {
+      "package": "StanHeaders",
+      "url": "https://github.com/stan-dev/rstan",
+      "branch": "v2.39.0",
+      "subdir": "StanHeaders"
+  },
+  {
+      "package": "rstan",
+      "url": "https://github.com/stan-dev/rstan",
+      "branch": "v2.39.0",
+      "subdir": "rstan/rstan"
+  }
 ]
