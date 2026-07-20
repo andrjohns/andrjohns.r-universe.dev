@@ -31,5 +31,9 @@
       "package": "rstantools",
       "url": "https://github.com/stan-dev/rstantools",
       "branch": "compat"
+  },
+  {
+      "package": "RcppParallel",
+      "url": "https://github.com/RcppCore/RcppParallel"
   }
 ]
