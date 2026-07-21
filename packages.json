@@ -16,23 +16,6 @@
         "url": "https://github.com/andrjohns/jsutils"
     },
   {
-      "package": "StanHeaders",
-      "url": "https://github.com/stan-dev/rstan",
-      "branch": "v2.39.0",
-      "subdir": "StanHeaders"
-  },
-  {
-      "package": "rstan",
-      "url": "https://github.com/stan-dev/rstan",
-      "branch": "v2.39.0",
-      "subdir": "rstan/rstan"
-  },
-  {
-      "package": "rstantools",
-      "url": "https://github.com/stan-dev/rstantools",
-      "branch": "compat"
-  },
-  {
       "package": "RcppParallel",
       "url": "https://github.com/RcppCore/RcppParallel"
   }
