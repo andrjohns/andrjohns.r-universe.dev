@@ -14,9 +14,5 @@
     {
         "package": "jsutils",
         "url": "https://github.com/andrjohns/jsutils"
-    },
-  {
-      "package": "RcppParallel",
-      "url": "https://github.com/RcppCore/RcppParallel"
-  }
+    }
 ]
