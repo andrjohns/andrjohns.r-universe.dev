@@ -14,5 +14,9 @@
     {
         "package": "jsutils",
         "url": "https://github.com/andrjohns/jsutils"
+    },
+    {
+        "package": "newstan",
+        "url": "https://github.com/andrjohns/newstan"
     }
 ]
