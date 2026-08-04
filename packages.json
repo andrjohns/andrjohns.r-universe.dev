@@ -16,7 +16,7 @@
         "url": "https://github.com/andrjohns/jsutils"
     },
     {
-        "package": "newstan",
-        "url": "https://github.com/andrjohns/newstan"
+        "package": "stanr",
+        "url": "https://github.com/andrjohns/stanr"
     }
 ]
